@@ -1,0 +1,9 @@
+body{
+  font-family: 'JetBrains Mono';
+}
+
+.flex-box-container{
+  display: flex;
+  padding: 10px;
+  border: 1px solid black;
+}
